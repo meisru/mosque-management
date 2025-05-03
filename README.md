@@ -1,2 +1,2 @@
-# mosque-management
-mosque management system using python/tkinter/postgresql.
+# Mosque Management System
+Built with Python, Tkinter, Postgresql.
